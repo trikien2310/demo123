@@ -55,7 +55,7 @@ public class SeleniumWebdriverTest {
 //
 //        // ...
 //
-//        webDriver.quit();
+        webDriver.quit();
 
     }
 
